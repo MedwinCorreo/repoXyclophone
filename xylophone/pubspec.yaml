@@ -1,0 +1,19 @@
+---
+dependencies:
+  assets_audio_player: ^1.3.0
+  cupertino_icons: ^0.1.3
+  flutter:
+    sdk: flutter
+description: "A new Flutter application."
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+flutter:
+  assets:
+    - assets/
+  uses-material-design: true
+name: xylophone
+publish_to: none
+version: 1.0.0+1
